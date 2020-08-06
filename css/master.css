@@ -1,0 +1,83 @@
+.mainhead
+{
+
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+}
+.subhead
+{
+font-family: 'Ribeye Marrow', cursive;
+}
+.topcloud {
+    position: relative;
+    left: 400px;
+    height: 100px;
+}
+
+.topcnt{
+background-color: powderblue;
+    height: 1020px;
+    text-align: center;
+}
+
+.mountain{
+    position: relative;
+    top: 30px;
+    right:23px
+
+
+}
+.bottomcloud{
+    position: absolute;
+    left: 100px;
+    height:100px;
+
+
+
+ }
+.circlepic
+{
+   border-radius: 100%;
+
+
+}
+
+
+.midcont{
+    text-align: center;
+}
+hr
+{
+    border-style: dotted;
+    border-bottom-style: none;
+    border-top-width: thick;
+    width: 20% ;
+    color: lightgray
+}
+h1
+{
+  font-family: 'Lemonada', cursive;
+}
+.roundimg
+{
+    border-radius: 100%;
+}
+.last
+{
+text-align: center;
+}
+.botcont
+{
+text-align: center;
+}
+h2
+{
+  font-family: 'Lobster',cursive
+}
+h3
+{
+  font-family: 'Lemonada', cursive;
+}
+p{
+  font-family: 'Roboto Slab', serif;
+}
